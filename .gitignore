@@ -1,0 +1,6 @@
+# the built interpreter
+hypercube
+hypercube.exe
+# python
+__pycache__/
+*.pyc

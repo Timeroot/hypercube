@@ -1,0 +1,3 @@
+# Keep line endings as LF everywhere: tests.sh is a shell script, and the
+# nameless programs are one long line each.
+* text=auto eol=lf
